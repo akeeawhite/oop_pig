@@ -34,7 +34,7 @@ In addition, made some clarification in line number 44, and omitted .
 
 import random
 
-    
+
 #1st function generates a random number from 1 to 6
 def roll_die(sides):
     r = random.randrange(1, 7)
